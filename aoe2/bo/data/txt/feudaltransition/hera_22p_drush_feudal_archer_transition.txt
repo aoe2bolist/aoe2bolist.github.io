@@ -1,0 +1,122 @@
+1
+3 MMA to feudal archers
+Hera
+04/14/2019
+intermediate
+-imgunit 1 ../imgs/units/militia.png -feudalagepop 22
+Basic build with for Man at arms and archers in Feudal Age. It ends in Castle Age.
+-TcUp 0 loom Before going to Feudal Age
+-ArmUp 0 barracks manatarms Instantly at feudal age
+-EcoUp 0 wood 1 Immediatly after clicking MAA
+-BsmUp 0 fletching When possible b4 moving archers from base in feudal age
+-TcUp 0 wheelbarrow In Feudal b4 going to Castle
+-BsmUp 0 paddedarcherarmor While advancing to Castle Age
+-EcoUp 0 food 1 While advancing to Castle Age
+-EcoUp 0 gold 1 While advancing to Castle Age
+-ArmUp 0 archeryrange crossbowman Instantly at Castle Age
+-BsmUp 0 bodkinarrow At Castle Age
+-EcoUp 0 wood 2 As soon as possible in Castle Age
+-UnvUp 0 ballistics As university is built
+1
+Build 2 Houses [<b>2</b>] [<b>1</b>]
+0 0 0 0 3 4 5 3
+Build around the TC
+1
++6 on Sheep
+0 6 0 0 6 7 15 0
+ 
+1
++4 on Wood (<b>LC</b>)
+4 6 0 0 10 11 15 0
+First Wood Line
+1
++1 on Boar/Sheep
+4 7 0 0 11 12 15 0
+If Mayans, pull the boar when vil start to be created to use only 3 of the 4 starting sheeps (optimal, but not necessary)
+1
++4 on Berries (<b>H<b>, <b>M<b>)
+4 11 0 0 15 16 20 0
+If Mayans, pull the boar when vil start to be created to use only 3 of the 4 2
+1
++1 on Boar/Sheep
+4 12 0 0 16 17 20 0
+Pull second boar with one TC vill
+1
++1 on building 1H/Barracks/1H - on Sheep (18/20)
+4 12 0 0 17 18 20 1
+ 
+1
++1 on Boar/Sheep
+4 13 0 0 18 19 30 1
+Split the TC vils into 2 groups on sheeps
+1
++1 on Wood
+5 13 0 0 19 20 30 1
+ 
+1
++2 on Gold
+5 13 2 0 21 22 30 1
+ 
+1
+Click Feudal Age
+5 14 2 0 21 22 30 0
+ 
+2
+While Advancing to Feudal Age
+1
+Slowly move 5 vils from Sheep to Wood (<b>LC</b>)
+10 9 2 0 21 22 30 0
+First get 3 to build the new <b>LC</b>, then get +2 as the sheep runs out 
+1
+Create 3 militia in barracks 
+11 8 2 0 21 25 30 0
+ 
+1
+Keep the TC vils on 4 farms and 1 on straggle trees
+11 8 2 0 21 25 30 0
+The vil on straggle trees is to have enough wood for Archery range and wall in feudal age
+2
+At Feudal Age (~10:10)
+1
++1 on building 2x Archery Range/Wall/Houses
+11 8 2 0 22 26 30 1
+Build 2~3 skirms and then full archers
+1
++1 on building Wall/Blacksmith/Houses
+11 8 2 0 23 27 30 2
+Other side of your map, but save wood for farms
+1
+Move the 1 vil on Straggle Trees to Farm
+10 9 2 0 23 27 30 2
+ 
+1
++5 on Gold
+10 9 7 0 28 32 35 2
+For consistent 2x archer production 
+1
++7~9 on Farms
+10 16+ 7 0 35+ 39+ 50 2
+At this point, is full farm mode, get straggle trees and create a farm for each 60 wood
+1
++1 on Gold
+10 16+ 8 0 36+ 40+ 60 2
+Put 1 on gold before researching wheelbarrow to save for castle up
+1
+Click Castle Age
+10 16+ 8 0 36+ 40+ 60 2
+ 
+2
+While advancing to Castle Age
+1
+Stop reseeding farms, and put this vils on wood (1~3)
+10 16+ 8 0 36+ 40+ 60 2
+For TC's, University and Ballistics
+1
+Build University [1]									
+10 16+ 8 0 36+ 40+ 60 2
+ 
+1
+Build 2 new Tcs for booming						
+10 16+ 8 0 36+ 40+ 60 2
+ 
+-1

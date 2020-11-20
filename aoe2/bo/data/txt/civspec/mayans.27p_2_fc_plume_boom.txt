@@ -1,0 +1,103 @@
+1
+FC Plume Boom
+Based on AoE2 Guide
+11/10/2020
+unreliable
+-civ mayans -imgunit 1 ../imgs/units/plumed_archer.png -feudalagepop 27 -castleagepop +2
+Fast Castle build with Plumed Archer creation.
+-TcUp 0 loom Research as the game starts b4 vils
+-EcoUp 0 wood 1 While advancing to Castle Age
+-EcoUp 0 food 1 While advancing to Castle Age
+-BsmUp 0 fletching While advancing to Castle Age
+-EcoUp 0 wood 2 At Castle Age after Castle and TC creation
+-BsmUp 0 bodkinarrow At Castle Age after Castle and TC creation
+1
+Build 2 Houses [<b>2</b>] [<b>2</b>]
+0 0 0 0 4 5 5 4
+Build around the TC
+1
++6 on Sheep
+0 6 0 0 6 7 15 0
+ 
+1
++4 on Wood (<b>LC</b>)
+4 6 0 0 10 11 15 0
+First Wood Line
+1
++1 on Boar/Sheep
+4 7 0 0 11 12 15 0
+Pull the boar when vils start getting the 4th sheep
+1
++5 on Berries (<b>2H<b>, <b>M<b>)
+4 12 0 0 16 17 25 0
+ 
+1
++2 on Boar/Sheep
+4 14 0 0 18 19 25 0
+Pull second boar
+1
++4 on Wood (<b>LC</b>, <b>H</b>)
+8 r r r 22 23 30 0
+ 
+1
++2 on Gold (<b>MC</b>)
+r r 2 r 24 25 30 0
+ 
+1
++2 on Stone (<b>MC</b>)
+r r r 2 26 27 30 0
+
+1
+Click Feudal Age
+r r r r 26 27 30 0
+ 
+2
+While Advancing to Feudal Age
+1
+Move 2 vils from Boar to Stone
+r 12 r 4 26 27 30 0
+ 
+2
+At Feudal Age
+1
+Build a Blacksmith [<b>1</b>] and a Market [<b>2</b>]
+5 r r r 26 27 30 3
+ 
+1
++2 on Stone
+r r r 6 28 29 30 3
+
+1
+Click Feudal Age
+8 r r r 28 29 30 0
+ 
+2
+While Advancing to Castle Age
+1
+Move 1 vil from Berries to Stone (<b>H</b>)
+r 11 r 7 28 29 35 0
+ 
+2
+At Castle Age
+1
+Build a Castle with stone vils
+r r r 2 28 29 35 5
+Start creating plumed archers 
+1
+Build a TC
+4 r r 2 28 29 35 9
+Ensure the creationg of new vils
+1
++1 vil only building Houses
+r r r r 29 30 35 10
+
+1
++2 on Gold
+r r 4 r 31 32 40 10
+  
+-1
+-1
+
+Send any new villager after this to wood.
+Make farms with villagers on wood.
+After about a minute in Castle Age you should be able to build a third town center.

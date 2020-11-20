@@ -1,0 +1,62 @@
+1
+Scout Rush
+Hera
+11/19/2020
+intermediate
+-imgunit 1 ../imgs/units/scout_cavalry.png -feudalagepop 19
+Got this build from Hera's stream (playing with Turks, that received bonus pierce armor for Scouts, and can dive TC's for a little time). You put more vils on boar/sheep instead of Berries to get enough food for Feudal Age. In Feudal Age, a standard build order can be followed (transition to castle, archers, Light Scout with siege push or forward castle, etc). Luring at least 1 deer can provide better food income for consistent resources. Must force drop probably to get 500 food in time. While advancing to Feudal Age, you may need more vils on straggle trees to afford the buildings. Try to go to the opponent with your starting scout to prevent him walling. In Feudal, finish barracks and build a stable, then follow other standard build order in sequence.
+-TcUp 0 loom Before Click Feudal
+1
+Build 2 Houses [<b>2</b>] [<b>1</b>]
+0 0 0 0 3 4 5 3
+Build around the TC.
+1
++6 on Sheep
+r 6 r r 6 7 15 0
+ 
+1
++3 on Wood (<b>LC</b>)
+3 r r r 9 10 15 0
+First Wood Line
+1
++2 on Boar/Sheep
+r 8 r r 11 12 15 0
+Lure 1st Boar
+1
++1 on Berries (<b>H</b>, <b>M</b>)
+r 9 r r 12 13 20 0
+ 
+1
++6 on Boar
+r 15 r r 18 19 20 0
+15/20 get the second Boar 
+1
+Click Feudal Age
+r 15 r r 18 19 20 0
+ 
+2
+While Advancing to Feudal Age
+1
+Move 3 from Sheep to Berries
+r 15 r r 18 19 20 0
+ 
+1
+Move 6 from Sheep to Wood (<b>LC</b>)
+9 9 r r 18 19 20 0
+Put more vils on straggle trees if needed for barracks
+1
+Try to lure 1 deer
+9 9 r r 18 19 20 0
+ 
+1
+Build a House and Barracks
+r r r r 18 19 20 0
+ 
+2
+At Feudal Age
+1
+Build a Stable and Scouts
+r r r r 18 19 20 0
+ 
+-1
+0

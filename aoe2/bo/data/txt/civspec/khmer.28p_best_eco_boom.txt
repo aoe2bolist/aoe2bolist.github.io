@@ -1,0 +1,106 @@
+1
+28+0 Eco Boom
+YT: AoE2 Arena
+07/06/2020
+advanced
+-civ khmer -imgunit 1 ../imgs/buildings/town_center_ingame.png -feudalagepop 28 -castleagepop +0 -imperialagepop 80+
+Eco booming with Khmer. When creating farms, can get some Straggle trees for more easier Wood consumption, also keeping at least 6 on sheep in last ones. While Booming, it is important to balance the resources (keeping around 25 in wood is enough). It is focused on creating Battle elephants at imperial age.
+-EcoUp 0 wood 1 While advancing to Castle Age
+-EcoUp 0 food 1 While advancing to Castle Age
+-TcUp 0 wheelbarrow Queued while advancing to Castle Age
+-EcoUp 0 wood 2 At Castle Age
+-EcoUp 0 food 2 At Castle Age
+-EcoUp 0 gold 1 While Booming
+-TcUp 0 handcart While Booming
+-EcoUp 0 gold 2 While Booming
+-TcUp 0 loom While advancing to Imperial Age
+1
+Build 2 Houses [<b>2</b>] [<b>1</b>]
+0 0 0 0 3 4 5 3
+Build around the TC
+1
++6 on Sheep
+0 6 0 0 6 7 15 0
+ 
+1
++4 on Wood (<b>LC</b>)
+4 6 0 0 10 11 15 0
+ 
+1
++1 on Boar
+r 7 0 0 11 12 15 0
+Lure first boar and <b>start luring deer</b>
+1
++4 on Berries (<b>H<b>, <b>M<b>)
+4 11 0 0 15 16 25 0
+ 
+1
++3 on Boar/Sheep (<b>2H<b>)
+4 14 0 0 18 19 30 0
+Slowly create +4 farms and keep 6 on sheep
+1
++4 on Wood
+8 14 0 0 22 23 30 0
+ 
+1
++1 on Stone
+r r r 1 23 24 30 0
+ 
+1
++2 on Gold
+r r 2 r 25 26 30 0
+ 
+1
++2 on Wood
+10 r r r 27 28 30 0
+ 
+1
+Click Feudal Age
+r r r r 27 28 30 0
+ 
+2
+While Advancing to Feudal Age (~10:05)
+1
+Move 2 from Gold to Wood when 200 of Gold
+12 r 0 r 27 28 30 0
+Gold needed for Castle Age 
+1
+Move 3 from TC to Straggle trees
+15 11 r r 27 28 30 0
+More Wood for new 3 TC's 
+2
+At Feudal Age (~12:15)
+1
+Click Feudal Age
+r r r r 27 28 30 0
+ 
+2
+While Advancing to Castle Age (~13:10)
+2
+At Castle Age (~19:38)
+1
+Build 3 new TC's with 2 vils each
+10 r r 0 27 28 30 6
+3 from Straggle trees, 1 from stone, 2 from wood line 
+1
+Focus on new Farms (2 TC) and Wood (2 TC)
+24 36 r r 61 62 70 1
+One villager ONLY building houses
+1
+Put 4 on Stone and +++ on Gold
+24 36 18 4 83 84 100 1
+For Imperial Age
+2
+While Advancing to Imperial Age (~24:30)
+1
+Build Blacksmith and Stables
+r r r r 83 84 100 1
+For battle elephant and upgrades
+2
+At Imperial Age (~12:15)
+1
+Example of 140 Villagers
+25 75 35 5 140 140 100 0
+Can transition to other units
+-1
+-1

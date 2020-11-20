@@ -1,0 +1,61 @@
+1
+Instant DRush
+Hera
+11/13/2019
+tight
+-civ lithuanians -imgunit 1 ../imgs/units/militia.png -feudalagepop ~24
+DRush with 2 militia, and transition to feudal age. Can be followed by 2 archery ranges.
+-TcUp 0 loom Before going to Feudal
+-EcoUp 0 wood 1 Instantly at Feudal Age
+1
+Build 1 House [<b>2</b>] and 1 on Straggle trees
+1 0 0 0 3 4 5 2
+Build around the TC
+1
+Build a Barracks [<b>1</b>] and Queue +2 Militia
+1 2 0 0 4 5 10 1
+ 
+1
++6 on Sheep
+0 6 0 0 7 10 15 1
+As 25 Wood for 2nd <b>H</b>, Move to Sheep
+
+1
++1 on Straggle Trees
+2 6 0 0 8 11 15 0
+Move the <b>builder vil</b> to Straggle Trees
+1
++1 Lure the Boar
+2 7 0 0 9 12 15 0
+Send the 2 militia to enemy base
+1
++3 on Straggle Trees <b>H</b>, then Wood <b>LC</b>
+5 7 0 0 12 15 20 0
+As you can afford a Lumber Camp
+1
++5 on Boar/Sheep <b>H</b>
+5 12 0 0 17 20 25 0
+ 
+1
++4 on Berries <b>H</b>
+5 16 0 0 21 24 25 0
+ 
+1
+Click Feudal Age
+5 16 0 0 21 24 25 0
+ 
+2
+While Advancing to Feudal Age (~8:05)
+1
+1
+Move 5 from Sheep to Wood <b>LC</b>
+10 11 0 0 21 24 25 0
+As the sheep runs out
+1
+Move 3 from Sheep to Gold <b>MC</b>
+r 8 3 r 21 24 25 0
+As the sheep runs out
+2
+At Feudal Age (~10:15)
+-1
+-1

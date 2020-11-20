@@ -1,0 +1,56 @@
+1
+Scout Rush
+Build Order Reference by Cicero
+07/05/2020
+intermediate
+-civ mongols -imgunit 1 ../imgs/units/scout_cavalry.png -feudalagepop 18
+"The Mongols scout rush is their signature and an important one to learn, since after their fast start they get few other advantages until mid-late imp", by Cicero. In Feudal, the usual transition into Castle can be followed, by putting 10 on Wood, 17~18 on Farms, then 5 on Gold, Wheelbarrow and going to Castle Age.
+-TcUp 0 loom Before going to feudal age
+-EcoUp 0 wood 1 Immediatly when in Feudal
+-EcoUp 0 food 1 Usually in Feudal before farms, but can be delayed
+1
+Build 2 Houses [<b>2</b>] [<b>1</b>]
+0 0 0 0 3 4 5 3
+Build around the TC
+1
++6 on Sheep
+0 6 0 0 6 7 15 0
+ 
+1
++3 on Wood (<b>LC</b>)
+3 6 0 0 9 10 15 0
+First Wood Line
+1
++1 on Boar
+3 7 0 0 11 12 15 0
+Pull the boar with 1 vil on TC when vil start to be created
+1
++4 on Berries (<b>H<b>, <b>M<b>)
+3 11 0 0 14 15 20 0
+Try to lure <b>at least 1 deer</b> for more safe food income
+1
++3 on Boar/Sheep
+r 14 r r 17 18 20 0
+ 
+1
+Click Feudal Age
+r r r r 17 18 20 0
+ 
+2
+While Advancing to Feudal Age (~06:25)
+1
+Move 5 vils from Food TC to Wood
+8 9 r r 17 18 20 0
+ 
+1
+Build Barracks at 60%
+r r r r 17 18 20 0
+ 
+2
+At Feudal Age (~08:35)
+1
+Build Stable
+r r r r 17 18 20 0
+  
+-1
+-1

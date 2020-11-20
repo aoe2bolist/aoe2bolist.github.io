@@ -1,0 +1,132 @@
+1
+Double Castle Arambai
+YT: AoE2 Arena
+08/09/2020
+advanced
+-civ burmese -imgunit 1 ../imgs/units/arambai.png -feudalagepop 28 -castleagepop +2
+A build order which builds mill before lumber camp. Good for safe spots.
+-EcoUp 0 food 1 While advancing to Castle Age
+-BsmUp 0 paddedarcherarmor In Castle Age after adding more Farms
+-EcoUp 0 gold 1 In later Castle Age
+1
+Build 2 Houses [<b>2</b>] [<b>1</b>]
+0 0 0 0 3 4 5 3
+Build around the TC
+1
++6 on Sheep
+0 6 0 0 6 7 15 0
+ 
+1
++1 on Wood (<b>H</b>)
+1 r 0 0 7 8 20 0
+Get Straggle trees around TC.
+1
++4 on Berries (<b>M</b>)
+r 10 0 0 11 12 15 0
+ 
+1
++1 on Boar
+r 11 0 0 12 13 20 0
+Lure First Boar.
+1
++2 on Wood
+3 r 0 0 18 19 25 0
+Again on Straggle trees.
+1
++3 on Wood (<b>2H</b>, <b>LC</b>)
+6 r 0 0 17 18 30 0
+Pull second boar
+1
++2 on Boar/Sheep
+r 13 0 0 19 20 30 0
+Get Second Boar or earlier.
+1
++6 on Stone
+r r r 6 25 26 30 0
+Also start pushing <b>deer</b> (2/4 per deer)
+1
++2 on Gold
+r r 2 r 27 28 30 0
+Build 2 farms from TC vils
+1
+Click Feudal Age
+r r r r 27 28 30 0
+ 
+2
+While Advancing to Feudal Age (~10:05)
+1
+Move 2 vils from Food to Stone
+r 11 r 8 27 28 30 0
+ 
+2
+At Feudal Age (~12:15)
+1
+Build Blacksmith and Market, then Gold
+r 8 r r 27 28 30 3
+Get vils around the TC
+1
++2 on Stone
+r r r 10 29 30 30 3
+
+1
+Move 2 vils from Food to Gold
+r r 4 r 29 30 30 3
+As the sheep runs out
+1
+Move 3 builder vils to Gold
+r r 7 r 29 30 30 0
+The 3 builder vils
+1
+Click Castle Age
+r r r r 29 30 30 0
+ 
+2
+While Advancing to Castle Age (~13:05)
+1
+Move 4 vils from Berries to Wood (<b>LC</b>)
+10 2 r r 29 30 30 0
+As the berries runs out
+1
+Build Houses (2+)
+r r r r 29 30 40 0
+
+1 
+Group Stone vils in 2 of 5
+r r r r 29 30 40 0
+Wait until 1300 of stone to build 2 castles
+2
+At Castle Age (~15:45)
+1
+Build 2 Castles with each 5 stone vils
+r r r 0 29 30 40 10
+ 
+1
++4 on Farms
+r 6 r r 33 34 40 10
+ 
+1
+Move 5 vils from 1 castle to Gold (<b>MC</b>)
+r r 12 r 33 34 40 5
+ 
+1
+Move 5 vils from 1 castle to Wood
+15 r r r 33 34 40 0
+Start Creating Arambai from 2 Castles
+1
++2 on Gold
+r r 14 r 35 36 40 0
+Do not forget on building more houses
+1
++2 on Wood
+17 r r r 37 38 40 0
+ 
+1
++4 on Farms
+r 10 r r 41 42 50 0
+To afford upgrades
+1
++ on Wood
++17 r r r 41 42 50 0
+For other buildings
+-1
+-1

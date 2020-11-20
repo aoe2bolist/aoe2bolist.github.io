@@ -1,0 +1,29 @@
+3
+Feudal Transition
+5
+txt feudaltransition/hera_19p_scout_rush
+txt feudaltransition/hera_21p_scout_transition_to_castle
+txt feudaltransition/hera_22p_drush_feudal_archer_transition
+txt feudaltransition/ibo_22p_scout_to_feudal_age_to_castle
+txt feudaltransition/ibo_22p_eagle_scouts
+Fast Castle/Imperial
+6
+txt fcastlefimperial/28p_2v_fc_2st_6knights
+txt fcastlefimperial/28p_2v_fc_pop_castle
+txt fcastlefimperial/32p_2v_drush_fc
+txt fcastlefimperial/25p_2v_fc_1st_knights
+txt fcastlefimperial/27p_2v_fc_boom_3tc
+txt fcastlefimperial/31p_2_2_pop_FI
+Specific Civilization
+11
+txt civspec/burmese.double_castle_arambai
+txt civspec/byzantines.32p_fast_imperial
+txt civspec/incas.feudal_tower_rush
+txt civspec/khmer.28p_best_eco_boom
+txt civspec/korean.19p_tower_rush
+txt civspec/lithuanians.instant_drush_to_feudal
+txt civspec/mayans.23p_maa_to_archers
+txt civspec/mayans.27p_2_fc_plume_boom
+txt civspec/mongols.16p_scout_rush
+txt civspec/mongols.18p_scout_rush
+txt civspec/turks.32p_fast_imperial

@@ -1,0 +1,88 @@
+1
+Scout Rush into Castle Knights
+Hera
+03/11/2020
+intermediate
+-imgunit 1 ../imgs/units/scout_cavalry.png -feudalagepop 21 -castleagepop 32+
+Classic, fast build - scouts can gain early map controle, do early damage before walls go up, and can effectively kill off small groups of archers/skirms. They can also buy time for a player to transition into ranges - which is usually needed, since archers once massed will begin to kill off scouts quite easily.
+-TcUp 0 loom Before Click Feudal
+-EcoUp 0 wood 1 Immediatly when in Feudal
+-EcoUp 0 food 1 Immediatly when in Feudal
+-TcUp 0 wheelbarrow In Feudal after 5 on Gold
+-EcoUp 0 gold 1 While advancing to Castle Age
+1
+Build 2 Houses [<b>2</b>] [<b>1</b>]
+0 0 0 0 3 4 5 3
+Build around the TC.
+1
++6 on Sheep
+r 6 r r 6 7 15 0
+ 
+1
++3 on Wood (<b>LC</b>)
+3 r r r 9 10 15 0
+First Wood Line.
+1
++1 on Boar/Sheep
+r 7 r r 10 11 15 0
+Lure 1st Boar.
+1
++4 on Berries (<b>2H</b>, <b>M</b>)
+r 11 r r 14 15 25 0
+Build 2 houses and Mill.
+1
++4 on Boar
+r 15 r r 18 19 25 0
+ 
+1
++2 on Wood
+5 r r r 20 21 25 0
+Same Wood Line.
+1
+Click Feudal Age
+r r r r 20 21 25 0
+ 
+2
+While Advancing to Feudal Age (~07:30)
+1
+Move 5 from Sheep to Wood (<b>LC</b>)
+10 10 r r 20 21 25 0
+ 
+1
+Get Straggle Trees as the sheep runs out
+r r r r 20 21 25 0
+Wait for Horse Collar to be done in Feudal Age 
+1
+Build barracks at 60% (max)
+9 r r r 20 21 25 1
+Can be done earlier + wall
+2
+At Feudal Age (<10:00)
+1
+Build a Stable and 3 Scouts
+8 r r r 20 24 35 2
+Also build more houses + Wall
+1
++7 on Farms
+r 17 r r 27 31 35 2
+Get Straggle Trees for more stable wood resources
+1
++5 on Gold
+r r 5 r 32 36 40 2
+Continue walling and building houses
+1
+Build Blacksmith during/before Wheelbarrow
+r r r r 32 36 40 2
+ 
+1
+Click Castle Age
+r r r r 32 36 40 2
+ 
+2
+While advancing to Castle Age
+1
+Move 2 from Food (berries) to Gold
+r 15 7 r 32 36 40 2
+For knight creation at Castle Age
+-1
+0

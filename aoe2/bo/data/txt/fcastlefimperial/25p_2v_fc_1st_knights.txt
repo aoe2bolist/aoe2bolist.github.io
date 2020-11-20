@@ -1,0 +1,246 @@
+1
+FC into 1 Stable and Knights
+ 
+10/01/2020
+intermediate
+-imgunit 1 ../imgs/units/knights.png -feudalagepop 25 -castleagepop +2
+This is a safe build to castle age in ~14 minutes to build knights from a stable. It requires luring deer, so it is more suitable for maps like arena, hideout or safe team positions. It is a good build for Knights to Paladins at Imperial Age, putting more vils on Food/Gold at late Eco Booming, or Wood/Gold for Archers.
+-TcUp 0 loom Can be delayed to go faster to next age
+-EcoUp 0 wood 1 While advancing to Castle Age
+-EcoUp 0 food 1 While advancing to Castle Age
+-TcUp 0 wheelbarrow While booming in Castle Age
+-EcoUp 0 wood 2 As soon as possible in Castle Age
+-EcoUp 0 gold 1 While booming
+-EcoUp 0 food 2 While booming for more food/farm
+-TcUp 0 handcart Important for large villager population
+1
+Build 2 Houses [<b>2</b>] [<b>1</b>]
+0 0 0 0 3 4 5 3
+Build around the TC.
+1
++6 on Sheep
+0 6 0 0 6 7 15 0
+ 
+1
++4 on Wood (<b>LC</b>)
+4 6 0 0 10 11 15 0
+First Wood Line.
+1
++1 on Boar/Sheep
+4 7 0 0 11 12 15 0
+Lure 1st Boar.
+1
++5 on Berries (<b>2H</b>, <b>M</b>)
+4 12 0 0 16 17 25 0
+Build 2 houses and Mill.
+1
++2 on Boar/Sheep
+4 14 0 0 18 19 25 0
+Lure 2nd Boar (15/25~16/25) and <b>start luring deer with your Scout</b>.
+1
++4 on Wood
+8 14 0 0 22 23 25 0
+Same Wood Line.
+1
++2 on Gold (<b>MC</b>)
+8 14 2 0 24 25 25 0
+ 
+1
+Click Feudal Age
+8 14 2 0 24 25 25 0
+TcUp <b>Loom</b> if not enough resources.
+2
+While Advancing to Feudal Age (~9:00)
+1
+Build 1 House
+8 13 2 0 24 25 30 1
+Get Food vil.
+1
+Build Barracks at 60% of Feudal Age
+7 14 2 0 24 25 30 1
+Get Wood vil.
+2
+At Feudal Age (~11:00)
+1
+Build a Blacksmith [<b>1</b>] and a Stable [<b>2</b>]
+5 14 2 0 24 25 30 3
+Get Wood vils.
+1
++2 on Gold
+8 11 4 0 26 27 30 3
+ 
+1
+Click Castle Age
+8 14 4 0 26 27 30 0
+TcUp <b>Loom</b> if not enough resources.
+2
+While advancing to Castle Age (12:10 ~ 13:00)
+1
+Move vils from Food to Wood/Gold
+10 9 7 0 26 27 30 0
+Move from Berries or TC.
+1
+Move 1 to build new Houses									
+10 8 7 0 26 27 30 1
+To not get housed in Castle Age.
+2
+At Castle age (14:40 ~ 15:00)
+1
+Start creating Knights
+10 8 7 0 26 27 30 1
+ 
+1
++6 on Farms
+10 14 7 0 32 33 40 1
+14 Food vils for consistent villager and knight production.
+1
+Put more on Wood for 2nd TC
+14+ 14 7 0 36+ 37+ 40+ 1
+  
+1
+Build 2nd TC
+14+ 14+ 7 0 36+ 37+ 40+ 1
+Focus new vils on Food/Wood. 
+1
+Build 2nd Stable
+14+ 14+ 7+ 0 36+ 37+ 40+ 1
+Requires more on Food/Gold for 2 Stable Knight production.
+1
+Build 3rd TC
+14+ 14+ 7+ 0 36+ 37+ 40+ 1
+When possible.
+1
+Click Imperial Age when possible
+14+ 14+ 7+ 0 36+ 37+ 40+ 1
+ 
+-1
+0
+
+
+
+
+
+
+
+//////////////ECO Booming
+This build can be used for closed maps where you can be safe for late eco booming, but requires luring deer for early food income and more stable times/resources. It is not focused on building castles, but staying with 4 TC vil production to reach Imperial Age at ~30 minutes. After the end of this build (late Eco Booming), put more vils on resources you need for army production (Wood/Gold for Archers, Food/Gold for Paladins, Wood/Food for other units).
+1
+Build 2 Houses [<b>2</b>] [<b>1</b>]
+0 0 0 0 3 4 5 3
+Build around the TC
+1
++6 on Sheep
+0 6 0 0 6 7 15 0
+ 
+1
++4 on Wood (<b>LC</b>)
+4 6 0 0 10 11 15 0
+First Wood Line
+1
++1 on Boar/Sheep
+4 7 0 0 11 12 15 0
+Lure 1st Boar
+1
++5 on Berries (<b>2H</b>, <b>M</b>)
+4 12 0 0 16 17 25 0
+Build 2 houses and Mill
+1
++2 on Boar/Sheep
+4 14 0 0 18 19 25 0
+Lure 2nd Boar (15/25~16/25) and <b>start luring deer with your Scout</b>
+1
++4 on Wood
+8 14 0 0 22 23 25 0
+Same Wood Line
+1
++2 on Gold (<b>MC</b>)
+8 14 2 0 24 25 25 0
+ 
+1
+Click Feudal Age
+8 14 2 0 24 25 25 0
+TcUp <b>Loom</b> if not enough resources
+2
+While Advancing to Feudal Age (~9:00)
+1
+Build 1 House
+8 13 2 0 24 25 30 1
+Get Food vil 
+2
+At Feudal Age (~11:00)
+1
+Build a Blacksmith [<b>1</b>] and a Market [<b>2</b>]
+5 14 2 0 24 25 30 3
+Get Wood vils
+1
+TC vils 6 Farms and 3 on Straggle Trees
+8 11 2 0 24 25 30 3
+After Sheep runs out
+
+1
++2 on Gold
+8 11 4 0 26 27 30 3
+ 
+1
+Click Castle Age
+8 14 4 0 26 27 30 0
+TcUp <b>Loom</b> if not enough resources
+2
+While advancing to Castle Age (12:10 ~ 13:00)
+1
+EcoUp Wood > Food
+13 9 4 0 26 27 30 0
+Wait EcoUp Food to start build Farms
+1
+Move vils from Gold to Stone
+13 9 0 4 26 27 30 0
+To afford a 4rd TC you'll need only +100 on stone (300 in total)
+
+1
+Move vils from Berries to Wood
+18 4 0 4 26 27 30 0
+When berries runs out, to afford new farms and TC
+1
+Move 1 to build new Houses									
+17 4 0 4 26 27 30 1
+To not get housed in Castle Age 
+1
+Move vils from Stone to Wood									
+21 4 0 0 26 27 30 1
+ 
+2
+At Castle age (14:40 ~ 15:00)
+1
+TcUp Wheelbarrow
+21 4 0 0 26 27 30 1
+  
+1
+Build 2nd, 3rd and 4rd TC
+21 4 0 0 26 27 30 1
+2 first, and last TC when possible, 3~4 vils per TC building			
+1
++ on Farms/Wood
+~20 ~30 0 0 51+ 52+ 60+ 1
+Until you reach consistent TC vil production 
+1
+EcoUp Wood² > Gold
+~20 ~30 0 0 51+ 52+ 60+ 1
+Focus EcoUp Wood², then Food, Gold after 55~60 vils, then other EcoUp's
+1
++ on Gold at 50~60 vils
+~20 ~30 ~20 0 71+ 72+ 80+ 1
+2 or more TC's dropping vils on Gold, rest on Food for Imperial Age
+1
+TcUp Hand Cart at 80~90 vils								
+~20 ~40 ~20 0 81+ 82+ 90+ 1
+ 
+1
+Build 2 Castle Buildings							
+~20 ~40 ~20 0 81+ 82+ 90+ 1
+2 University/SiegeWorkshop/Monastery or 1 Castle
+1
+Click Imperial Age when possible
+~20 ~40 ~20 0 91+ 92+ 100+ 1
+Around 26~27+ minutes
+-1
+0

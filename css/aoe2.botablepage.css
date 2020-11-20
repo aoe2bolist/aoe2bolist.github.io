@@ -1,0 +1,197 @@
+table.build_order_txt {
+  font-size: 16px;
+  background-color: rgba(128, 128, 128, 0.1);
+}
+td.c_border {
+  background-color: rgba(255, 255, 255, 0.5);
+  text-align: left;
+}
+td.a_wood {
+  background-color: rgba(13, 75, 13, 0.5);
+  font-weight: bold;
+  text-align: center;
+  min-width: 35px;
+  max-width: 35px;
+}
+td.a_food {
+  background-color: rgba(255, 153, 153, 0.5);
+  font-weight: bold;
+  text-align: center;
+  min-width: 35px;
+  max-width: 35px;
+}
+td.a_gold {
+  background-color: rgba(216, 203, 14, 0.5);
+  font-weight: bold;
+  text-align: center;
+  min-width: 35px;
+  max-width: 35px;
+}
+td.a_stone {
+  background-color: rgba(156, 154, 154, 0.5);
+  font-weight: bold;
+  text-align: center;
+  min-width: 35px;
+  max-width: 35px;
+}
+td.i_wood {
+  background-color: rgba(13, 75, 13, 0.5);
+  color: rgba(0, 0, 0, 0.4);
+  text-align: center;
+  min-width: 35px;
+  max-width: 35px;
+}
+td.i_food {
+  background-color: rgba(255, 153, 153, 0.5);
+  color: rgba(0, 0, 0, 0.4);
+  text-align: center;
+  min-width: 35px;
+  max-width: 35px;
+}
+td.i_gold {
+  background-color: rgba(216, 203, 14, 0.5);
+  color: rgba(0, 0, 0, 0.4);
+  text-align: center;
+  min-width: 35px;
+  max-width: 35px;
+}
+td.i_stone {
+  background-color: rgba(156, 154, 154, 0.5);
+  color: rgba(0, 0, 0, 0.4);
+  text-align: center;
+  min-width: 35px;
+  max-width: 35px;
+}
+
+tr.bo_header {
+  background-color: rgb(255, 255, 255);
+}
+
+td.bo_row_new_path {
+  background-color: rgb(255, 255, 255);
+  font-size: 18px;
+  text-align: center;
+  padding-top: 5px;;
+  border-left: 1px solid rgb(255, 255, 255);
+  border-right: 1px solid rgb(255, 255, 255);
+}
+
+td.pop_data {
+  text-align: center;
+  min-width: 60px;
+  max-width: 60px;
+}
+
+td.building_data {
+  text-align: center;
+  min-width: 20px;
+  max-width: 20px;
+}
+
+td.bo_col_tips {
+  text-align: left;
+  min-width: 250px;
+  max-width: 250px;
+}
+
+td.next_age {
+  background-color: rgba(0, 102, 255, 0.315);
+}
+
+td.valid_civ {
+  background-color: rgba(36, 129, 36, 0.5);
+}
+
+td.notvalid_civ {
+  background-color: rgba(255, 45, 45, 0.5);
+}
+
+td.nottested_civ {
+  background-color: rgba(151, 151, 151, 0.5);
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+
+b.b_ecoup_wood {
+  color: rgb(7, 134, 7);
+  text-align: center;
+  font-size: 18px;
+}
+
+b.b_ecoup_food {
+  color: rgb(255, 153, 153);
+  text-align: center;
+  font-size: 18px;
+}
+
+b.b_ecoup_gold {
+  color: rgb(197, 194, 0);
+  text-align: center;
+  font-size: 18px;
+}
+
+b.b_ecoup_stone {
+  color: rgb(156, 154, 154);
+  text-align: center;
+  font-size: 18px;
+}
+
+b.b_tcup_1 {
+  color: rgb(253, 0, 139);
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+b.b_tcup_2 {
+  color: rgb(181, 0, 253);
+  text-align: center;
+  font-size: 18px;
+}
+
+b.b_armup_barracks {
+  color: rgb(99, 0, 138);
+  text-align: center;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+b.b_armup_archery_range {
+  color: rgb(129, 0, 180);
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+b.b_bsm_up {
+  color: rgb(181, 0, 253);
+  text-align: center;
+  font-size: 18px;
+}
+
+b.b_unv_up {
+  color: rgb(5, 188, 201);
+  text-align: center;
+  font-size: 18px;
+}
+
+b.comment_upgrade {
+  color: rgb(0, 0, 0);
+}
+
+table.upgrades_list {
+  align-items: center;
+  margin: 2px 2px 2px 2px;
+  background-color: rgba(128, 128, 128, 0.06);
+  border-color: rgba(0,0,0,0.0);
+}
+
+td.upgrades_list {
+  text-align: center;
+  font-size: 16px;
+  border-color: rgba(0,0,0,0.3);
+}

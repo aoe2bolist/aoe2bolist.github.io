@@ -261,7 +261,15 @@ const ReadAndGenerateBuildOrderPage = async (file_path) => {
   const txt_build_order = await file_response.text();
 
   var array_of_lines = txt_build_order.split('\n');
-  var i = 5;
+  var i = 1;
+  var bo_title = document.getElementById('bo_title');
+  bo_title.innerHTML = array_of_lines[i];
+
+  i++; // i = 2 author
+  i++; // i = 3 date
+  i++; // i = 4 difficulty
+  i++; // i = 5 additional parameters
+  
   var border_additional_info = array_of_lines[i++];
   var border_about_paragraph = array_of_lines[i++];
 

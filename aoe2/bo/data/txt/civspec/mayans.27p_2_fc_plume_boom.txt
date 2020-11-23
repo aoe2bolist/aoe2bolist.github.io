@@ -1,6 +1,6 @@
 1
-FC Plume Boom
-Based on AoE2 Guide
+Mayans Plume & Boom
+AoE2 Guide: Monsieurbaggins
 11/10/2020
 unreliable
 -civ mayans -imgunit 1 ../imgs/units/plumed_archer.png -feudalagepop 27 -castleagepop +2

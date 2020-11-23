@@ -1,17 +1,13 @@
 1
-FC into an instant pop castle
- 
-03/11/2020
+28+2 pop FC - Unique Unit
+Build Order Reference by Cicero
+07/05/2020
 beginner
 -imgunit 1 ../imgs/buildings/castle.png -feudalagepop 28 -castleagepop +2
-This is a slower build for instant pop castle, but keeping only 1 TC. It does not require luring deer. It is a good build for beginners.
+"Fast Castle and have the stone to build one when you reach it. Sometimes used as pocket with civs such as Burmese/Mayans/Spanish. Eco balance while advancing to Castle will vary according to the civ and their unique unit.", by Cicero.
 -TcUp 0 loom Before going to Feudal Age
 -EcoUp 0 wood 1 While advancing to Castle Age
 -EcoUp 0 food 1 While advancing to Castle Age
--EcoUp 0 gold 1 While advancing to Castle Age
--TcUp 0 wheelbarrow While booming in Castle Age
--EcoUp 0 wood 2 As soon as possible in Castle Age
--TcUp 0 handcart Important for large villager population
 1
 Build 2 Houses [<b>2</b>] [<b>1</b>]
 0 0 0 0 3 4 5 3
@@ -35,18 +31,18 @@ Build 2 houses and Mill.
 1
 +2 on Boar/Sheep
 r 14 r r 18 19 25 0
-Lure 2nd Boar (15/25~16/25).
+Build 2 farms from TC vils
 1
-+4 on Wood (<b>H</b>, <b>LC</b>)
-8 r r r 22 23 30 0
-Same Wood Line.
++5 on Wood (<b>H</b>, <b>LC</b>)
+9 r r r 23 24 30 0
+[5+4]
 1
 +2 on Gold (<b>MC</b>)
-r r 2 r 24 25 30 0
+r r 2 r 25 26 30 0
  
 1
-+3 on Stone (<b>MC</b>)
-r r r 3 27 28 30 0
++2 on Stone (<b>MC</b>)
+r r r 2 27 28 30 0
  
 1
 Click Feudal Age
@@ -54,27 +50,23 @@ r r r r 27 28 30 0
  
 2
 While Advancing to Feudal Age
+1
+Move 2 from Food to Stone
+r r r 4 27 28 30 0
+ 
 2
 At Feudal Age
 1
 Build a Blacksmith [<b>1</b>] and a Market [<b>2</b>]
-r 11 r r 27 28 30 3
+6 r r r 27 28 30 3
  
 1
 +2 on Stone
-r r r 5 29 30 30 3
+r r r 6 29 30 30 3
  
 1
 Click Castle Age
-r 14 r r 29 30 30 0
+9 r r r 29 30 30 0
  
-2
-While advancing to Castle Age
-2
-At Castle age
-1
-Build a Castle
-r r r 0 29 30 30 5
-Use stone vils.
 -1
 0

@@ -1,0 +1,75 @@
+1
+28 pop Drush - Archers
+Build Order Reference by Cicero
+07/05/2020
+intermediate
+-imgunit 1 ../imgs/units/archer.png -feudalagepop 28
+"A Dark Age rush; three militia created in Dark Age used to delay the opponent. This is another way of buying time to mass archers. At time of writing, this build has become less popular, with the men-at-arms build being preferred. It can be quite weak against men-at-arms build, since the opponent will have militia to defend, which can then be upgraded after they hit Feudal first.", by Cicero.
+-TcUp 0 loom Before going to Feudal Age
+-EcoUp 0 wood 1 At Feudal age
+-EcoUp 0 food 1 At Feudal age
+1
+Build 2 Houses [<b>2</b>] [<b>1</b>]
+0 0 0 0 3 4 5 3
+Build around the TC.
+1
++6 on Sheep
+r 6 r r 6 7 15 0
+ 
+1
++4 on Wood (<b>LC</b>)
+4 r r r 10 11 15 0
+First Wood Line.
+1
++1 on Boar/Sheep
+r 7 r r 11 12 15 0
+Lure 1st Boar.
+1
++4 on Berries (<b>H</b>, <b>M</b>)
+r 11 r r 15 16 20 0
+ 
+1
++1 mine 10 Gold, then Wood
+r r 1 r 16 17 20 0
+To afford loom after 3 militia
+1
++1 on Building <b>H</b>, <b>Barracks</b>, <b>H</b>, <b>Wall</b>
+5 r 0 r 17 18 30 1
+Build <b>3 militia</b>.
+1
++7 Sheep/Farms
+r 19 r r 24 28 30 0
+3 Farms in total if possible
+1
+Click Feudal Age
+r r r r 24 28 30 0
+ 
+2
+While Advancing to Feudal Age
+1
+Move 4 villagers from Food to Gold
+r 15 4 r 24 28 30 0
+ 
+1
+Move 7 villagers from Food to Wood
+12 8 r r 24 28 30 0
+ 
+2
+At Feudal Age
+1
+Build 2x Archery Range and Blacksmith [<b>1</b>]
+r r r r 25 29 30 1 
+Also more houses
+1
++4 on Gold
+r r 8 r 29 33 40 1 
+Start creating archers
+1
++11 on Farms
+r 19 r r 40 44 60 1 
+You total pop will probably be higher
+Click Castle Age
+r r r r 40 44 60 1
+ 
+-1
+0

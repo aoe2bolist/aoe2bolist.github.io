@@ -1,0 +1,85 @@
+1
+26 pop Fire Galleys
+Build Order Reference by Cicero
+07/05/2020
+intermediate
+-imgunit 1 ../imgs/units/fire_galley.png -feudalagepop 26
+"Generic water build; fast Feudal with four fishing ships, followed by constant production from two, then three docks shortly after. It is usual to start with fire galleys, fletching is necessary if switching to galleys.", by Cicero.
+-TcUp 0 loom Before Click Feudal
+-EcoUp 0 wood 1 Immediatly when in Feudal
+-EcoUp 0 food 1 Usually in Feudal before farms, but can be delayed
+-BsmUp 0 fletching If switching to galleys
+1
+Build 2 Houses [<b>2</b>] [<b>1</b>]
+0 0 0 0 3 4 5 3
+Build around the TC.
+1
++6 on Sheep
+r 6 r r 6 7 15 0
+ 
+1
++4 on Wood (<b>LC</b>)
+4 r r r 10 11 15 0
+ 
+1
++1 on Boar/Sheep
+r 7 r r 11 12 15 0
+ 
+1
+1 build a Dock
+r r r r 12 13 15 1
+Also used to build Houses and other buildings
+1
++2 on Wood
+6 r r r 14 16 20 1
+ 
+1
+Build 4 fish boats to get Food
+r 11 r r 14 22 30 1
+ 
+1
++7 on Sheep/Farms
+r 18 r r 21 26 30 1
+ 
+1
+Click Feudal Age
+r r r r 21 26 30 1
+
+2
+While Advancing to Feudal Age
+1
+Move 9 from Sheep to Wood
+15 9 r r 21 26 30 1
+ 
+1
+Move 5 from Sheep to Gold
+r 4 5 r 21 26 30 1
+Only keep the fish boats on Food
+1
+Build 2nd Dock
+r r r r 21 26 30 1
+ 
+2
+At Feudal Age
+1
++1 on Gold
+r r 6 r 22 27 30 1
+ 
+1
+Build 3rd Dock
+r r r r 22 27 30 1
+ 
+1
++6 on Berries
+r 10 r r 28 33 40 1
+ 
+1
++8 on Farms
+r 18 r r 36 41 50 1
+ 
+1
+Build a Blacksmith and a Market
+r r r r 40 41 50 1
+ 
+-1
+0

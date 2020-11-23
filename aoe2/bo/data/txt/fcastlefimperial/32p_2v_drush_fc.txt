@@ -1,5 +1,5 @@
 1
-DRush FC into Xbow
+32+2 pop Drush FC - Crossbows
 Build Order Reference by Cicero
 07/05/2020
 intermediate
@@ -31,7 +31,7 @@ Lure 1st Boar.
 r 11 r r 15 16 20 0
  
 1
-+1 on Take 10 Gold, then Wood
++1 mine 10 Gold, then Wood
 r r 1 r 16 17 20 0
 To afford loom after 3 militia.
 1

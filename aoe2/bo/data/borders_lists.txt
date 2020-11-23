@@ -1,19 +1,25 @@
-3
+4
 Feudal Transition
-5
+6
 txt feudaltransition/hera_19p_scout_rush
 txt feudaltransition/hera_21p_scout_transition_to_castle
 txt feudaltransition/hera_22p_drush_feudal_archer_transition
 txt feudaltransition/ibo_22p_scout_to_feudal_age_to_castle
 txt feudaltransition/ibo_22p_eagle_scouts
+txt feudaltransition/ibo_28_drush_archers
 Fast Castle/Imperial
-6
+8
 txt fcastlefimperial/28p_2v_fc_2st_6knights
+txt fcastlefimperial/28p_2v_fc_unique_unit
 txt fcastlefimperial/28p_2v_fc_pop_castle
 txt fcastlefimperial/32p_2v_drush_fc
 txt fcastlefimperial/25p_2v_fc_1st_knights
 txt fcastlefimperial/27p_2v_fc_boom_3tc
 txt fcastlefimperial/31p_2_2_pop_FI
+txt fcastlefimperial/26p_2v_arena_fc
+Water Maps
+1
+txt waterbuilds/ibo_26p_fire_galleys
 Specific Civilization
 11
 txt civspec/burmese.double_castle_arambai

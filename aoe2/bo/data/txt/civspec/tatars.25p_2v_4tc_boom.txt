@@ -1,0 +1,98 @@
+1
+25+2 4TC Boom
+AoE2 Arena
+11/23/2020
+beginner
+-civ tatars -imgunit 1 ../imgs/buildings/town_center_ingame.png -feudalagepop 25 -castleagepop 27
+"One of the best booms in AoE2 right now. Extremely far ahead of most other civs by minute 20 vill count.", by AoE2Arena. Possible after the patch from AOE2 DE anniversary (11/17/2020). It does not require pushing deer, but can be a boost for food income.
+-EcoUp 0 wood 1 While advancing to Castle Age 
+-EcoUp 0 food 1 While advancing to Castle Age
+-EcoUp 0 wood 2 Instantly in Castle Age after placing 3 TC's 
+-TcUp 0 wheelbarrow As start adding more farms (~70 pop)
+
+1
+Build 2 Houses [<b>2</b>] [<b>1/b>]
+0 0 0 0 3 4 5 3
+Build around the TC
+1
++6 on Sheep
+0 6 0 0 6 7 15 0
+ 
+1
++4 on Wood (<b>LC</b>)
+4 6 0 0 10 11 15 0
+ 
+1
++1 on Boar
+r 7 0 0 11 12 15 0
+Lure first boar
+1
++4 on Berries (<b>H</b>, <b>M</b>, <b>H</b>)
+4 11 0 0 15 16 25 0
+ 
+1
++3 on Boar/Sheep
+r 14 0 0 19 20 25 0
+Lure deers
+1
++4 on Wood (<b>H</b>)
+8 r 0 0 22 23 30 0
+
+1
++2 on Stone
+r r r 2 24 25 30 0
+
+1
+Click Feudal Age
+r r r 2 24 25 30 0
+ 
+2
+While Advancing to Feudal Age
+1
+Use 1 TC vils to get 20 Gold
+r 13 1 r 24 25 30 0
+Don't need to create a Mining Camp
+2
+At Feudal Age
+1
+Build Blacksmith and Market
+5 14 0 r 24 25 30 3
+
+1
++2 Wood
+7 r 0 r 26 27 30 3
+ 
+1
+Click Castle Age
+10 r r r 26 27 30 0
+Sell 100 stone at the market to reach 200 Gold
+2
+While Advancing to Castle Age
+1
+Move 2 vils from TC to Wood
+12 r r r 26 27 30 0
+ 
+2
+At Castle Age
+1
+Get 3 Wood vils to create a TC
+r r r r 26 27 30 0
+Put them to TC sheep instantly
+1
+Get 1 Berries vil and 2 Stone vils to create a TC
+r r r r 26 27 30 0
+Put them to TC sheep instantly
+1
+Get 3 TC vils to create a TC
+r r r r 26 27 30 0
+Put them to TC sheep instantly
+1
+Get more Wood and Food
+r r r r 26 27 30 0
+Start adding Farms
+1
+Can sell wood to click Imperial Age faster
+r r r r 26 27 30 0
+ 
+-1
+-1

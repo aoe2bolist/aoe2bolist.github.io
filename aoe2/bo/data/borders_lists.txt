@@ -21,7 +21,7 @@ Water Maps
 1
 txt waterbuilds/ibo_26p_fire_galleys
 Specific Civilization
-11
+12
 txt civspec/burmese.double_castle_arambai
 txt civspec/byzantines.32p_fast_imperial
 txt civspec/incas.feudal_tower_rush
@@ -32,4 +32,5 @@ txt civspec/mayans.23p_maa_to_archers
 txt civspec/mayans.27p_2_fc_plume_boom
 txt civspec/mongols.16p_scout_rush
 txt civspec/mongols.18p_scout_rush
+txt civspec/tatars.25p_2v_4tc_boom
 txt civspec/turks.32p_fast_imperial

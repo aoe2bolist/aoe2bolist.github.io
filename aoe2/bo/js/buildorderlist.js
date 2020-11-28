@@ -340,7 +340,7 @@ const ReadAndGenerateBuildOrderItem = async (div_border_item_list, file_build_pa
     var bo_array_of_lines = txt_build_order.split('\n');
     var border_type = parseInt(bo_array_of_lines[0]);
 
-    if (border_type == 1)
+    if (border_type == 1 || border_type == 2)
       div_border_item = GenerateBuildOrderItemType1(bo_array_of_lines, ar_file_path_build_order[1]);
   }
   

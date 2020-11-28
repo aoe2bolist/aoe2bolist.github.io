@@ -1,0 +1,72 @@
+2
+23 pop Archers
+Build Order Reference by Cicero
+07/05/2020
+intermediate
+-imgunit 1 ../imgs/units/archer.png -feudalagepop 23
+"This is a 'slower' build, since archers need to be massed to be effective. Unlike scouts, the aim is to keep the ranges working constantly - archers also need fletching as a minimum to be effective. This is ofter a poor build to use for 1v1, partly because it is quite weak against the faster scout build, so it is mainly used in team games as flank where its weaknesses can be covered by other players.", by Cicero.
+-TcUp 0 loom Before going to Feudal Age at 22pop
+-EcoUp 0 wood 1 Immediatly in Feudal Age
+-BsmUp 0 fletching Before moving out archers
+-TcUp 0 wheelbarrow In Feudal b4 going to Castle (16~17min)
+1
+Build 2 Houses [<b>2</b>] [<b>1</b>]
+0 0 0 0 3 3
+Build around the TC
+1
++6 on Sheep
+0 6 0 0 6 0
+ 
+1
++4 on Wood (<b>LC</b>)
+4 6 0 0 10 0
+First Wood Line
+1
++1 on Boar/Sheep
+4 7 0 0 11 0
+Lure the boar
+1
++4 on Berries (<b>2H<b>, <b>M<b>)
+4 11 0 0 15 0
+ 
+1
++2 on Boar/Sheep
+4 13 0 0 17 0
+1 Farm Máx 
+1
++5 on Wood
+9 13 0 0 22 0
+ 
+1
+Click Feudal Age
+r r r r 22 0
+ 
+2
+While Advancing to Feudal Age
+1
+Move 2 vils from TC to Wood (<b>LC</b>)
+11 11 r r 22 0
+Create another Lumber Camp 
+1
+Move 3 vils from TC to Gold (<b>MC</b>)
+r 8 3 r 22 0
+ 
+1
+Build 1 Barracks
+r r r r 22 0
+
+2
+At Feudal Age
+1
+Build 2x Archery Range + Blacksmith
+r r r r 22 0
+Also More Houses to not reach pop cap
+1
++5 on Gold
+r r 8 r 27 0
+ 
+1
++10 on Farms
+r 18 r r 37 0
+
+-1

@@ -1,0 +1,73 @@
+2
+22 pop Men-at-Arms  - Archers
+Build Order Reference by Cicero
+07/05/2020
+intermediate
+-imgunit 1 ../imgs/units/archer.png -feudalagepop 22
+"This build allows involves creating three (or four) militia while advancing and researching the men-at-arms upgrade upon hitting Feudal. This build is one way of buying time to mass archers, since your opponent is usually forced to deal with the men-at-arms in their base first. This build is quite tight (and therefore difficult), meaning horse collar usually needs to be skipped.", by Cicero.
+-TcUp 0 loom Before going to Feudal Age at 22pop
+-EcoUp 0 wood 1 Immediatly in Feudal Age
+-BsmUp 0 fletching Before moving out archers
+-TcUp 0 wheelbarrow In Feudal b4 going to Castle (16~17min)
+1
+Build 2 Houses [<b>2</b>] [<b>1</b>]
+0 0 0 0 3 3
+Build around the TC
+1
++6 on Sheep
+0 6 0 0 6 0
+ 
+1
++4 on Wood (<b>LC</b>)
+4 6 0 0 10 0
+First Wood Line
+1
++1 on Boar/Sheep
+4 7 0 0 11 0
+ 
+1
++5 on Berries (<b>2H<b>, <b>M<b>)
+4 12 0 0 16 0
+ 
+1
++2 on Boar/Sheep
+4 14 0 0 18 0
+2 on Farms Máx
+1
++1 Build Barracks, then Wood
+4 14 0 0 19 1
+Also +Houses and Wall
+1
++2 on Gold
+r r 2 r 21 1
+ 
+1
+Click Feudal Age
+r r r r 21 1
+Then create 3 militia 
+2
+While Advancing to Feudal Age
+1
+Move 3 vils from TC to Wood (<b>LC</b>)
+8 11 r r 21 0
+Also the builder goes to Wood 
+2
+At Feudal Age
+1
+Move 2 vils from TC to Wood
+12 7 r r 21 0
+2 TC vils are on Farms
+1
+Build 2x Archery Range and Blacksmith
+r r r r 21 0
+Also more houses/Wall
+1
++6 on Gold
+r r 8 r 27 0
+
+1
++11 on Farms
+r 18 r r 38 0
+
+-1
+-1

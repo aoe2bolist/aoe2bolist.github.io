@@ -82,6 +82,12 @@ td.pop_data {
   max-width: 60px;
 }
 
+td.pop_data_only_vils {
+  text-align: center;
+  min-width: 10px;
+  max-width: 20px;
+}
+
 td.building_data {
   text-align: center;
   min-width: 20px;

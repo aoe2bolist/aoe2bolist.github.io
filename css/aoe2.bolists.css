@@ -149,8 +149,8 @@ figure.unit_figure {
 
 div.pop_ages_and_specs {
   position: absolute; 
-  width: 130px;
-  height:52.5%;
+  width: 135px;
+  height: 35%;
   top: 30%;
   left: 50%;
   opacity: 1;
@@ -227,4 +227,26 @@ div.border_page_add_info {
   border: 1px #000000 solid;
 
   z-index: 0;
+}
+
+div.additional_info_specs {
+  position: absolute; 
+  width: 135px;
+  height: 20%;
+  top: 65.5%;
+  left: 50%;
+  opacity: 1;
+  /*border: 1px #000000 solid;*/
+  /*padding: 3px;*/
+  display: flex;
+  margin: auto;
+  z-index: 1;
+}
+
+img.map_spec {
+  height: 40px;
+}
+
+img.lure_deer_n {
+  height: 40px;
 }

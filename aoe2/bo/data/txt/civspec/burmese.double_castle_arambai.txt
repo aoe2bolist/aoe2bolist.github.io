@@ -3,7 +3,7 @@
 YT: AoE2 Arena
 08/09/2020
 advanced
--civ burmese -imgunit 1 ../imgs/units/arambai.png -feudalagepop 28 -castleagepop +2
+-civ burmese -imgunit 1 ../imgs/units/arambai.png -feudalagepop 28 -castleagepop +2 -mapspec Arena
 A build order which builds mill before lumber camp. Good for safe spots.
 -EcoUp 0 food 1 While advancing to Castle Age
 -BsmUp 0 paddedarcherarmor In Castle Age after adding more Farms

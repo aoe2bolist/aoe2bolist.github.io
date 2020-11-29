@@ -25,6 +25,7 @@ var s_src_img_building_archery_range   = "../../imgs/buildings/archery_range.png
 var s_src_img_icon_crossbowman         = "../../imgs/upgrades/crossbowman.png"; 
 // Blacksmith upgrades
 var s_src_img_building_blacksmith      = "../../imgs/buildings/blacksmith.png"; 
+var s_src_img_icon_forging             = "../../imgs/upgrades/forging.png";
 var s_src_img_icon_fletching           = "../../imgs/upgrades/fletching.png"; 
 var s_src_img_icon_bodkin_arrow        = "../../imgs/upgrades/bodkin_arrow.png"; 
 var s_src_img_icon_padded_archer_armor = "../../imgs/upgrades/padded_archer_armor.png"; 
@@ -220,6 +221,11 @@ function AddUpgradeItem (bo_div, read_input_upgrade_line)
     ret_upgrade_item.img_building  = s_src_img_building_blacksmith; 
     ret_upgrade_item.comment       = str_bsmup_comm; 
 
+    if (str_bsmup_name.indexOf("forging") == 0)
+    {
+      ret_upgrade_item.upgrade_name  = "Forging";
+      ret_upgrade_item.img_icon      = s_src_img_icon_forging; 
+    }
     if (str_bsmup_name.indexOf("fletching") == 0)
     {
       ret_upgrade_item.upgrade_name  = "Fletching";

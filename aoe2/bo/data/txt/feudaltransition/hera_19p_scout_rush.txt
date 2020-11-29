@@ -1,10 +1,10 @@
 1
-Fast General Scout Rush
+Faster General Scout Rush
 Hera
 11/19/2020
-intermediate
--imgunit 1 ../imgs/units/scout_cavalry.png -feudalagepop 19
-Got this build from Hera's stream (playing with Turks, that received bonus pierce armor for Scouts, and can dive TC's for a little time). You put more vils on boar/sheep instead of Berries to get enough food for Feudal Age. In Feudal Age, a standard build order can be followed (transition to castle, archers, Light Scout with siege push or forward castle, etc). Luring at least 1 deer can provide better food income for consistent resources. Must force drop probably to get 500 food in time. While advancing to Feudal Age, you may need more vils on straggle trees to afford the buildings. Try to go to the opponent with your starting scout to prevent him walling. In Feudal, finish barracks and build a stable, then follow other standard build order in sequence.
+advanced
+-imgunit 1 ../imgs/units/scout_cavalry.png -feudalagepop 19 -luredeer 1
+Got this build from Hera's stream (playing with Turks, that received bonus pierce armor for Scouts, and can dive TC's for a little time). You put more vils on boar/sheep instead of Berries to get enough food for Feudal Age. In Feudal Age, a standard build order can be followed (transition to castle, archers, Light Scout with siege push or forward castle, etc). Luring at least 1 deer can provide better food income for consistent times. Must force drop probably to get 500 food in time. While advancing to Feudal Age, you may need more vils on straggle trees to afford the buildings. Try to go to the opponent with your starting scout to prevent him walling. In Feudal, finish barracks and build a stable, then follow other standard build order in sequence.
 -TcUp 0 loom Before Click Feudal
 1
 Build 2 Houses [<b>2</b>] [<b>1</b>]

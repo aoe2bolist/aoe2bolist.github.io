@@ -207,6 +207,52 @@ function CheckAndCreateImperialAgePopulationFigure (border_additional_info)
   return null;
 }
 
+// -mapspec
+function CheckAndCreateMapSpecFigure (border_additional_info)
+{
+  var mapspecindex = border_additional_info.indexOf("-mapspec");
+  if (mapspecindex >= 0)
+  {
+    var str_from_mapspec = border_additional_info.substring(mapspecindex);
+    var index_first_space = str_from_mapspec.indexOf(' ');
+    var index_second_space = GetSecondSpaceFromSpec(index_first_space, str_from_mapspec);
+    var string_map_name = str_from_mapspec.substring(index_first_space + 1, index_second_space);
+
+    var bo_map_spec_img = document.createElement("img");
+    bo_map_spec_img.classList.add('map_spec');
+    
+    if (string_map_name.indexOf("Arena") == 0)
+    {
+      bo_map_spec_img.setAttribute('src', "../imgs/maps/arena.png");
+      return bo_map_spec_img;
+    }
+  }
+  return null;
+}
+
+// -luredeer
+function CheckAndCreateLureDeer (border_additional_info)
+{
+  var lure_deer_index = border_additional_info.indexOf("-luredeer");
+  if (lure_deer_index >= 0)
+  {
+    var str_from_lure_deer = border_additional_info.substring(lure_deer_index);
+    var index_first_space = str_from_lure_deer.indexOf(' ');
+    var index_second_space = GetSecondSpaceFromSpec(index_first_space, str_from_lure_deer);
+    var string_number_of_deers = str_from_lure_deer.substring(index_first_space + 1, index_second_space);
+    var int_number_of_deers = parseInt(string_number_of_deers);
+    
+    var bo_lure_deer_img = document.createElement("img");
+    bo_lure_deer_img.classList.add('lure_deer_n');
+    if (int_number_of_deers == 1)
+    {
+      bo_lure_deer_img.setAttribute('src', "../imgs/gaia/1_deer.png");
+    }    
+    return bo_lure_deer_img;
+  }
+  return null;
+}
+
 function CheckAndCreateUnitFigure (border_additional_info)
 {
   var unitfig_index = border_additional_info.indexOf("-imgunit");
@@ -306,6 +352,18 @@ function GenerateBuildOrderItemType1 (bo_array_of_lines, file_build_path)
   if (possible_imperial_age_pop_figure != null)
     bo_div_additional_info.appendChild(possible_imperial_age_pop_figure);
 
+  // additional info about map and stuff
+  var bo_div_more_info_specs = document.createElement('div');
+  bo_div_more_info_specs.classList.add('additional_info_specs');
+  // -mapspec
+  var possible_img_map_spec = CheckAndCreateMapSpecFigure(border_additional_info);
+  if (possible_img_map_spec != null)
+    bo_div_more_info_specs.appendChild(possible_img_map_spec);
+
+  // -luredeer
+  var possible_img_deers = CheckAndCreateLureDeer(border_additional_info);
+  if (possible_img_deers != null)
+    bo_div_more_info_specs.appendChild(possible_img_deers);
 
   // add unit figure if any
   // -imgunit
@@ -322,6 +380,7 @@ function GenerateBuildOrderItemType1 (bo_array_of_lines, file_build_path)
   a_href.appendChild(span_href);
   
   div_border_item.appendChild(bo_div_additional_info);
+  div_border_item.appendChild(bo_div_more_info_specs);
   div_border_item.appendChild(a_href);
 
   return div_border_item;

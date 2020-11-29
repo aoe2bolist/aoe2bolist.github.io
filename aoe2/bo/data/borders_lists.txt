@@ -1,7 +1,8 @@
 4
 Feudal Transition
-10
+11
 txt feudaltransition/hera_19p_scout_rush
+txt feudaltransition/hera_20p_scout_rush
 txt feudaltransition/hera_21p_scout_transition_to_castle
 txt feudaltransition/hera_22p_drush_feudal_archer_transition
 txt feudaltransition/ibo_22p_scout_to_feudal_age_to_castle

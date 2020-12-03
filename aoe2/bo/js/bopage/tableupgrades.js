@@ -12,6 +12,7 @@ var s_src_img_building_mining_camp     = "../../imgs/buildings/mining_camp.png";
 var s_src_img_icon_gold_mining         = "../../imgs/upgrades/gold_mining.png";
 var s_src_img_icon_gold_shaft_mining   = "../../imgs/upgrades/gold_shaft_mining.png";
 // Stone upgrades
+var s_src_img_icon_stone_mining        = "../../imgs/upgrades/stone_mining.png";
 // Town Center upgrades
 var s_src_img_building_town_center     = "../../imgs/buildings/town_center.png"; 
 var s_src_img_icon_loom                = "../../imgs/upgrades/loom.png";
@@ -142,7 +143,7 @@ function AddUpgradeItem (bo_div, read_input_upgrade_line)
       if (upgrade_number == 1)
       {
         ret_upgrade_item.upgrade_name = "Stone Mining";
-        ret_upgrade_item.img_icon     = null;
+        ret_upgrade_item.img_icon     = s_src_img_icon_stone_mining;
       }
       else if (upgrade_number == 2)
       {

@@ -1,0 +1,81 @@
+1
+27+2 Pop Castle
+
+12/02/2020
+beginner
+-imgunit 1 ../imgs/buildings/castle.png -feudalagepop 27 -castleagepop +2 -mapspec Arena
+A build to have 650 stone in Castle Age to drop a Castle at enemy's base. Upgrade your unique unit blacksmith properties at Castle Age after dropping the Castle. Loom is made before Feudal Age, otherwise your TC will be idle by lack of Food for Castle Age.
+-TcUp 0 loom Before Going to Feudal Age
+-EcoUp 0 wood 1 While advancing to Castle Age
+-EcoUp 0 food 1 While advancing to Castle Age
+-EcoUp 0 wood 2 Asap in Castle Age
+1
+Build 2 Houses [<b>2</b>] [<b>1</b>]
+0 0 0 0 3 4 5 3
+Build around the TC.
+1
++6 on Sheep
+r 6 r r 6 7 15 0
+ 
+1
++4 on Wood (<b>LC</b>)
+4 r r r 10 11 15 0
+ 
+1
++1 on Boar
+r 7 r r 11 12 15 0
+Pull the boar with a TC vil as 4th sheep starts to be harvest
+1
++5 on Berries (<b>2H</b>, <b>M</b>)
+r 12 r r 16 17 25 0
+
+1
++2 on Boar
+r 14 r r 18 19 25 0
+After 2nd Boar, keep 6 on sheep and create 3 Farms
+1
++4 on Wood (<b>H</b>)
+8 r r r 22 23 30 0
+
+1
++2 on Gold (<b>MC</b>)
+r r 2 r 24 26 30 0
+ 
+1
++2 on Stone (<b>MC</b>)
+r r r 2 26 27 30 0
+ 
+1
+Click Feudal Age
+r r r r 26 27 30 0
+ 
+2
+While Advancing to Feudal Age
+1
+As Sheep runs out, 3 on Farms, 3 on Straggle Trees
+11 11 r r 26 27 30 0
+
+2
+At Feudal Age
+1
+Build a Blacksmith [<b>1</b>] and a Market [<b>2</b>]
+8 r r r 26 27 30 3
+Get Straggle Tree vils
+1
++2 on Stone
+r r r 4 28 29 30 3
+ 
+1
+Click Castle Age
+r r r 7 28 29 30 0
+Put the builders on Stone
+2
+While advancing to Castle Age
+2
+At Castle age
+1
+Move vils [7] to build a Castle
+r 9 r 3 28 29 30 7
+4 from Stone, 3 from Berries
+-1
+0

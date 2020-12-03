@@ -1,0 +1,102 @@
+1
+25+2 FC into Unique Unit
+Reddit: Holenz
+12/02/2020
+tight
+-imgunit 1 ../imgs/buildings/castle.png -feudalagepop 25 -castleagepop +2
+"The build order is of intermediate level: while it doesnt require you to push or hunt deer, it's still relatively tight and you will have to keep your villagers working and efficient at all times. You will need to be able to do basic tricks such as scouting, using houses to wall your base/resources, dropping off food, luring boar without loom and placing good lumber/mining camps.", by Holenz. Also from Holenz: "25+2 can't maintain 2TCs and UU. I tested it with Vietnamese Rattan Archers and Goth's Huskarls (no eco bonuses) and it's super tight, but it just narrowly works. If you drop your second TC first and your castle second and allocate your vills just right, you can maintain production from all three buildings. I can send the recorded games to everyone who doesn't believe it.".
+-TcUp 0 loom Before going to Feudal Age
+-EcoUp 0 wood 1 ASAP while advancing to Castle Age
+-EcoUp 0 food 1 ASAP while advancing to Castle Age
+-EcoUp 0 stone 1 ASAP while advancing to Castle Age
+-EcoUp 0 wood 2 In Castle Age after TC and Castle drop
+1
+Build 1 House
+0 0 0 0 3 4 5 3
+
+1
++6 on Sheep
+r 6 r r 6 7 15 0
+ 
+1
++4 on Wood (<b>H</b>, <b>LC</b>)
+4 r r r 10 11 15 0
+Can start Walling, but close to your TC
+1
++1 on Boar/Sheep
+r 7 r r 11 12 15 0
+ 
+1
++5 on Berries (<b>H</b>, <b>M</b>)
+r 12 r r 16 17 20 0
+
+1
++2 on Wood (<b>H</b>)
+6 r r r 18 19 25 0
+ 
+1
++4 on Farms
+r 16 r r 22 23 25 0
+Or get deer
+1
++2 on Stone (<b>MC</b>)
+r r r 2 24 25 25 0
+ 
+1
+Click Feudal Age
+r r r r 24 25 25 0
+ 
+2
+While Advancing to Feudal Age
+1
+Get the Stone vil to Wall
+r r r 1 24 25 35 1
+With Palidase, and máx of 2 Houses
+1
+Create 1 more Farm with a TC vil
+r r r 1 24 25 35 1
+At the last sheep is started
+1
+Move 3 from TC to Straggle Trees
+9 13 r 1 24 25 35 1
+As sheep runs out
+1
+Move 3 from TC to Stone
+r 10 r 5 24 25 35 0
+As sheep runs out
+2
+At Feudal Age
+1
+Build a Blacksmith [<b>1</b>] and a Market [<b>2</b>]
+6 r r r 24 25 35 3
+From Wood line
+1
++2 on Stone
+r r r 7 26 27 35 3
+ 
+1
+Move 1 builder to Stone and 2 to Wood
+8 r r 8 26 27 35 0
+
+1
+Sell 100 Wood and 100 Stone from Market
+r r r r 26 27 35 0
+
+1
+Click Castle Age
+r r r r 26 27 35 0
+ 
+2
+While advancing to Castle Age
+1
+Retask the 5 vils from Berries
+r r r r 26 27 35 0
+Based on the Unique Unit requirements (own judgement)
+2
+At Castle age
+1
+Drop a Castle and a TC
+r r r r 26 27 35 0
+"700 stone and >300 wood" 
+-1
+0

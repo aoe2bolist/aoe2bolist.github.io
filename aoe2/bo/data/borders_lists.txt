@@ -1,6 +1,6 @@
 4
 Feudal Transition
-11
+12
 txt feudaltransition/hera_19p_scout_rush
 txt feudaltransition/hera_20p_scout_rush
 txt feudaltransition/hera_21p_scout_transition_to_castle
@@ -12,6 +12,7 @@ txt feudaltransition/hera_22p_feudal_archers
 txt feudaltransition/ibo_23_pop_archers
 txt feudaltransition/ibo_22_pop_maa_archers
 txt feudaltransition/ibo_22_pop_maa_towers
+txt feudaltransition/drush_into_maa
 Fast Castle/Imperial
 11
 txt fcastlefimperial/28p_2v_fc_2st_6knights

@@ -1,0 +1,72 @@
+1
+DRush Militia into Men at Arms
+GregStein
+12/05/2020
+intermediate
+-imgunit 1 ../imgs/units/militia.png -feudalagepop 26
+"By far one of my strongest and successful build orders that helped me climb high ELO in no time. The main plan is to build a barracks at 6'ish min mark, queue 5 militias and be at your opponent base by 9:30 min. Then at 10:55 or 11:00 mins you must click up to feudal age and create more militias.". It seems that this build is hard to get 500 food for Feudal Age, so i made some adjustments for the last villagers.
+-TcUp 0 loom Before Click Feudal
+1
+Build 2 Houses [<b>2</b>] [<b>1</b>]
+0 0 0 0 3 4 5 3
+Build around the TC.
+1
++6 on Sheep
+r 6 r r 6 7 15 0
+ 
+1
++4 on Wood (<b>LC</b>)
+4 r r r 10 11 15 0
+
+1
++1 on Boar/Sheep
+r 7 r r 11 12 15 0
+
+1
++1 on Berries (<b>H</b>, <b>M</b>)
+r 8 r r 12 13 20 0
+ 
+1
++1 on Boar
+r 9 r r 13 14 20 0
+
+1
++2 on Berries
+r 11 r r 15 16 20 0
+ 
+1
++1 Build <b>H</b> Barracks <b>H</b>, then Berries
+r 12 r r 16 17 25 0
+ 
+1
++2 on Berries
+r 14 r r 18 19 25 0
+ 
+1
++1 on Wood
+5 r r r 19 20 30 0
+
+1
++2 on Gold (<b>MC</b>)
+r r 2 r 21 22 30 0
+Start building 2 Farms with the TC vils asap 
+1
++5 on Farms (<b>H</b>) 
+r 19 r r 26 32 35 0
+Get Straggle Trees, then Create a Farm at 60 Wood
+1
+Click Feudal Age
+r r r r 26 32 35 0
+
+2
+While Advancing to Feudal Age
+1
+Move 5 From TC to Wood (<b>LC</b>) 
+10 14 r r 26 32 35 0
+TC vils on Straggle Trees to create the Farms
+1
+Create more Militia (3~4) (<b>H</b>)
+r r r r 26 36 40 0
+Build an additional House
+-1
+0

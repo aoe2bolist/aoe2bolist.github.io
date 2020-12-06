@@ -3,7 +3,7 @@ DRush Militia into Men at Arms
 GregStein
 12/05/2020
 intermediate
--imgunit 1 ../imgs/units/militia.png -feudalagepop 26
+-imgunit 1 ../imgs/units/militia.png -feudalagepop 32
 "By far one of my strongest and successful build orders that helped me climb high ELO in no time. The main plan is to build a barracks at 6'ish min mark, queue 5 militias and be at your opponent base by 9:30 min. Then at 10:55 or 11:00 mins you must click up to feudal age and create more militias.". It seems that this build is hard to get 500 food for Feudal Age, so i made some adjustments for the last villagers.
 -TcUp 0 loom Before Click Feudal
 1
